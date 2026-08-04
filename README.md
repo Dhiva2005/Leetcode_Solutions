@@ -15,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
