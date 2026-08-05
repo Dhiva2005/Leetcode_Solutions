@@ -19,4 +19,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/3310-remove-methods-from-project) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
