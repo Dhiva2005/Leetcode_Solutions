@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 | [0092-reverse-linked-list-ii](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0092-reverse-linked-list-ii) |
 ## Simulation
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0198-house-robber) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
