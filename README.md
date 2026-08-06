@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0198-house-robber) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1929-concatenation-of-array](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
 | [3731-find-missing-elements](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
