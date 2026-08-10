@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
+| [1510-stone-game-iv](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0198-house-robber) |
+| [1510-stone-game-iv](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
 ## Recursion
 |  |
 | ------- |
@@ -90,4 +92,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
+## Game Theory
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
