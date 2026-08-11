@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0050-powx-n) |
 | [1510-stone-game-iv](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0050-powx-n) |
 ## Binary Search
 |  |
 | ------- |
