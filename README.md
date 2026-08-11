@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -22,12 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0242-valid-anagram) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0242-valid-anagram) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 ## String
 |  |
