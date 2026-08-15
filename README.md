@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0092-reverse-linked-list-ii) |
 ## Simulation
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0061-rotate-list) |
 ## Prefix Sum
 |  |
 | ------- |
