@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0739-daily-temperatures) |
 | [1732-find-the-highest-altitude](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
+| [2029-stone-game-ix](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0050-powx-n) |
 | [1510-stone-game-iv](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
@@ -108,14 +110,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
@@ -124,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
 ## Stack
 |  |
 | ------- |
@@ -136,4 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Greedy
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
+## Counting
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
