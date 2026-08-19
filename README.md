@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [1510-stone-game-iv](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Prefix Sum
 |  |
@@ -180,4 +183,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
