@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Math
 |  |
 | ------- |
