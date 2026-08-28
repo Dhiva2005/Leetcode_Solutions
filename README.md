@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0041-first-missing-positive](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
 | [0055-jump-game](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0202-happy-number) |
