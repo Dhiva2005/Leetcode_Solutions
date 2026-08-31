@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0739-daily-temperatures) |
 | [1480-running-sum-of-1d-array](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
