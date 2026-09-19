@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0290-word-pattern) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0071-simplify-path) |
 | [0496-next-greater-element-i](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
