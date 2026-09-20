@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [3310-remove-methods-from-project](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -224,4 +225,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
+## Tree
+|  |
+| ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 <!---LeetCode Topics End-->
