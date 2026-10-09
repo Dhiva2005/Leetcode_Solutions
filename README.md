@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0739-daily-temperatures) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1470-shuffle-the-array](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1563-stone-game-v](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1563-stone-game-v) |
 | [1672-richest-customer-wealth](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1672-richest-customer-wealth) |
