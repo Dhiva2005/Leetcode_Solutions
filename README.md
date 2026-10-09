@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1512-number-of-good-pairs) |
 | [1563-stone-game-v](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1563-stone-game-v) |
 | [1672-richest-customer-wealth](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1732-find-the-highest-altitude) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
+| [1512-number-of-good-pairs](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1512-number-of-good-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [1510-stone-game-iv](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
+| [1512-number-of-good-pairs](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1512-number-of-good-pairs) |
 | [1563-stone-game-v](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
+| [1512-number-of-good-pairs](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1512-number-of-good-pairs) |
 | [2029-stone-game-ix](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
 ## Memoization
 |  |
