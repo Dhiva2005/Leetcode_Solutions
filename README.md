@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0739-daily-temperatures) |
+| [0832-flipping-an-image](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0832-flipping-an-image) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0832-flipping-an-image) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0202-happy-number) |
+| [0832-flipping-an-image](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Prefix Sum
 |  |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0832-flipping-an-image](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1672-richest-customer-wealth) |
 ## Tree
 |  |
@@ -277,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
