@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0832-flipping-an-image) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1470-shuffle-the-array) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1510-stone-game-iv](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1512-number-of-good-pairs) |
 | [1563-stone-game-v](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1563-stone-game-v) |
