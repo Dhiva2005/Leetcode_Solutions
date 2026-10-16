@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0739-daily-temperatures) |
 | [0832-flipping-an-image](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0867-transpose-matrix) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0867-transpose-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1920-build-array-from-permutation) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0832-flipping-an-image](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Dhiva2005/Leetcode_Solutions/tree/master/1672-richest-customer-wealth) |
 ## Tree
 |  |
